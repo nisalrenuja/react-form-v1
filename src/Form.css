@@ -20,7 +20,7 @@
   }
   
   .form-content-left {
-    background: 		#BA55D3;
+    background: 		#498efd;
     border-radius: 10px 0 0 10px;
     position: relative;
   }
@@ -115,7 +115,7 @@
     height: 50px;
     margin-top: 10px;
     border-radius: 2px;
-    background: 	#8B008B;
+    background: 	#498efd;
     outline: none;
     border: none;
     color: #fff;
@@ -124,7 +124,7 @@
   
   .form-input-btn:hover {
     cursor: pointer;
-    background: #8A2BE2;
+    background: #1c29a8;
     transition: all 0.4s ease-out;
   }
   
@@ -138,6 +138,6 @@
   
   .form-input-login a {
     text-decoration: none;
-    color: 	#BA55D3;
+    color: 	#498efd;
     font-weight: 600;
   }
